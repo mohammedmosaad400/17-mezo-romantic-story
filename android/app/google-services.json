@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632083334649",
+    "project_id": "story-romance-jihd",
+    "storage_bucket": "story-romance-jihd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632083334649:android:0dee06943adcee8f8a2928",
+        "android_client_info": {
+          "package_name": "com.street.romance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632083334649-qrkom1637q8e0mkn361eas0bilset6pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.romance",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "632083334649-8h3g08q1kauub8n8g7a2pfkofcmiha83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CoYi6F93s8CiBNX3zudEdT_TdLv9jig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632083334649-8h3g08q1kauub8n8g7a2pfkofcmiha83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
